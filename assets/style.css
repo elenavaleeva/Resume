@@ -1,0 +1,122 @@
+
+   * {
+    margin: 0%;
+    }
+    body {
+    background-image: url("./WeakCarefreeCurlew-size_restricted.gif");
+ 
+    }
+ 
+   header {
+   font-size: 18px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 1%;
+   background-color: bisque;
+   color: rgb(77, 72, 72);
+   }
+ 
+   h1 {
+   font-size: 200%;
+   }
+ 
+   nav ul {
+   display: flex;
+   justify-content: space-between;
+   min-width: 300px;
+   }
+   nav a {
+   color: #272826;
+   font-weight: bold;
+   }
+   .picture-img a {
+   color: #bfc1be;
+   font-size: 40px; 
+   padding: 100px;
+   text-shadow:  -10px -10px 5px rgb(89, 89, 89);
+   }
+   nav a:hover {
+   color: rgb(47, 21, 21);
+   }
+   article {
+   border-bottom: 1px solid #5a5755;
+   }
+ 
+   span {
+   color: #464341;
+   }
+ 
+   img {
+   width: 300px;
+   height: 400px;
+  float: left;
+   margin-left: 20px;
+    box-shadow: -20px -20px 15px rgb(66, 62, 62);
+    
+   } 
+  
+   .picture-img a:hover {
+   color: rgb(17, 37, 37);
+         }
+ 
+   .hero {
+   margin: 150px;
+   justify-content: center; 
+   color: #46403b;
+   height: 400px;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   background-image: url("../images/sincerely-media-HoEYgBL_Gcs-unsplash.jpg");
+   background-size: cover;
+   background-position: center;
+ 
+ }
+ .text { 
+   display: inline-table;
+   justify-content: center;
+   size: 50px; 
+   width:80%; 
+   font-size: 40px;  
+   background-size: cover; 
+   text-align:justify;
+   text-shadow:  -10px -10px 5px gray;
+   }   
+ 
+ .hero a {
+   size: 50px;
+   width: 300px;
+   font-size: 40px;
+   background-size: cover;
+   text-align:center;
+   text-shadow:  -10px -10px 5px gray;
+ 
+ }
+ .hero :hover {
+  color: #1f252c;
+ }
+
+
+ 
+
+ 
+.footer {
+    height: 100px;
+    font-size: 20px;
+    display: flex;
+      justify-content: space-between;
+      padding: 1%;
+      background-color: #a8b1ba ;
+      color: rgb(51, 46, 46);
+      font-style: italic;
+  }
+  
+  
+    .footer span ::-ms-thumb {
+      position: relative;
+      text-decoration: underline;
+      color: rgb(125, 125, 136);
+      cursor: grab;
+     
+    }
