@@ -19,3 +19,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 1 Looks like all in order. 
 https://elenavaleeva.github.io/Resume/
 https://github.com/elenavaleeva/Resume
+
+The third link is for screenshots of the project
+
+https://elenavaleeva.github.io/Screenshots/
